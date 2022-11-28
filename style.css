@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(football-world-cup-background-banner-soccer-championship-2022-qatar_29865-3050.webp);
+    background-size: cover;
+    font-size: 18px;
+
+   
+}
+.box{
+    width: 500px;
+    background: green; 
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color:white;
+    font-family: sans-serif;
+   
+    
+}
+.box img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    
+}
+.box img:hover{
+    transform: scale(0.9);
+}
+
+
+
+
